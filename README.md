@@ -57,3 +57,4 @@ npm install
 ```
 ng serve
 ```
+Access the URL via browser - http://localhost:4200/
